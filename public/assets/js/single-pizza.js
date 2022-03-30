@@ -9,6 +9,10 @@ const $newCommentForm = document.querySelector('#new-comment-form');
 
 let pizzaId;
 
+function getPizza() {
+  // 
+}
+
 function printPizza(pizzaData) {
   console.log(pizzaData);
 
